@@ -1,0 +1,70 @@
+2023-04-22 10:28:07.987 INFO [main] [simplePerspective2.Application.main(Application.java:23)] - start
+2023-04-22 10:28:08.040 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 10:28:08.041 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:49)] - root_pane_is_null
+2023-04-22 10:28:08.041 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.DefaultViewContainer.<init>(DefaultViewContainer.java:24)] - default_constructor
+2023-04-22 10:28:08.043 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 10:28:08.054 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:53)] - root_pane_is_not_null
+2023-04-22 10:28:08.054 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewManager.addView(AbstractViewManager.java:31)] - is not null
+2023-04-22 10:28:08.054 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 10:28:08.054 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:53)] - root_pane_is_not_null
+2023-04-22 10:28:08.054 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewManager.addView(AbstractViewManager.java:37)] - is not null
+2023-04-22 10:44:43.842 INFO [main] [simplePerspective2.Application.main(Application.java:23)] - start
+2023-04-22 10:44:43.892 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 10:44:43.893 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:49)] - root_pane_is_null
+2023-04-22 10:44:43.893 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.DefaultViewContainer.<init>(DefaultViewContainer.java:24)] - default_constructor
+2023-04-22 10:44:43.926 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 10:44:43.926 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:53)] - root_pane_is_not_null
+2023-04-22 10:44:43.926 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewManager.addView(AbstractViewManager.java:31)] - is not null
+2023-04-22 10:44:43.926 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 10:44:43.926 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:53)] - root_pane_is_not_null
+2023-04-22 10:44:43.926 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewManager.addView(AbstractViewManager.java:37)] - is not null
+2023-04-22 10:45:12.993 INFO [main] [simplePerspective2.Application.main(Application.java:23)] - start
+2023-04-22 10:45:13.042 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 10:45:13.043 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:49)] - root_pane_is_null
+2023-04-22 10:45:13.043 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.DefaultViewContainer.<init>(DefaultViewContainer.java:24)] - default_constructor
+2023-04-22 10:45:13.055 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 10:45:13.056 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:53)] - root_pane_is_not_null
+2023-04-22 10:45:13.056 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewManager.addView(AbstractViewManager.java:31)] - is not null
+2023-04-22 10:45:13.056 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 10:45:13.056 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:53)] - root_pane_is_not_null
+2023-04-22 10:45:13.056 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewManager.addView(AbstractViewManager.java:37)] - is not null
+2023-04-22 10:47:28.717 INFO [main] [simplePerspective2.Application.main(Application.java:23)] - start
+2023-04-22 10:47:28.768 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 10:47:28.768 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:49)] - root_pane_is_null
+2023-04-22 10:47:28.769 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.DefaultViewContainer.<init>(DefaultViewContainer.java:24)] - default_constructor
+2023-04-22 10:47:28.780 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 10:47:28.780 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:53)] - root_pane_is_not_null
+2023-04-22 10:47:28.781 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewManager.addView(AbstractViewManager.java:31)] - is not null
+2023-04-22 10:47:28.781 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 10:47:28.781 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:53)] - root_pane_is_not_null
+2023-04-22 10:47:28.781 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewManager.addView(AbstractViewManager.java:37)] - is not null
+2023-04-22 10:47:51.543 INFO [main] [simplePerspective2.Application.main(Application.java:23)] - start
+2023-04-22 10:47:51.591 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 10:47:51.592 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:49)] - root_pane_is_null
+2023-04-22 10:47:51.592 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.DefaultViewContainer.<init>(DefaultViewContainer.java:24)] - default_constructor
+2023-04-22 10:47:51.604 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 10:47:51.604 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:53)] - root_pane_is_not_null
+2023-04-22 10:47:51.604 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewManager.addView(AbstractViewManager.java:31)] - is not null
+2023-04-22 10:47:51.604 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 10:47:51.604 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:53)] - root_pane_is_not_null
+2023-04-22 10:47:51.604 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewManager.addView(AbstractViewManager.java:37)] - is not null
+2023-04-22 11:00:35.791 INFO [main] [simplePerspective2.Application.main(Application.java:23)] - start
+2023-04-22 11:00:35.843 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 11:00:35.843 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:49)] - root_pane_is_null
+2023-04-22 11:00:35.843 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.DefaultViewContainer.<init>(DefaultViewContainer.java:24)] - default_constructor
+2023-04-22 11:00:35.855 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 11:00:35.855 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:53)] - root_pane_is_not_null
+2023-04-22 11:00:35.856 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewManager.addView(AbstractViewManager.java:31)] - is not null
+2023-04-22 11:00:35.856 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 11:00:35.856 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:53)] - root_pane_is_not_null
+2023-04-22 11:00:35.856 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewManager.addView(AbstractViewManager.java:37)] - is not null
+2023-04-22 11:01:09.186 INFO [main] [simplePerspective2.Application.main(Application.java:23)] - start
+2023-04-22 11:01:09.238 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 11:01:09.238 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:49)] - root_pane_is_null
+2023-04-22 11:01:09.238 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.DefaultViewContainer.<init>(DefaultViewContainer.java:24)] - default_constructor
+2023-04-22 11:01:09.249 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 11:01:09.249 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:53)] - root_pane_is_not_null
+2023-04-22 11:01:09.249 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewManager.addView(AbstractViewManager.java:31)] - is not null
+2023-04-22 11:01:09.249 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:47)] - get_root_pane
+2023-04-22 11:01:09.249 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewContainer.getRootPane(AbstractViewContainer.java:53)] - root_pane_is_not_null
+2023-04-22 11:01:09.249 INFO [AWT-EventQueue-0] [simplePerspective2.core.view.AbstractViewManager.addView(AbstractViewManager.java:37)] - is not null
